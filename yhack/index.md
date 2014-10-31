@@ -3,9 +3,13 @@ Tttle: Welcome to YHack
 layout: default
 ---
 
-Progress is a proud sponsor of [YHack 2014](http://yhack.org).
-Two of our core team engineers will attend the event:
+# Sponsoring YHack
+
+This is the first year we are sponsoring [YHack 2014](http://yhack.org); we are looking forward to a great event.
+Two of our engineers will attend the event:
 Shelley Chase from our Rollbase and Rollbase Mobile team and Jeremiah Harlan from our Modulus team.
+
+Below is some additional information about Progress and our participation.
 
 
 # Sponsor Links
