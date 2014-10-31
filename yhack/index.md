@@ -3,6 +3,9 @@ Tttle: Welcome to YHack
 layout: default
 ---
 
+# Venue
+  [YHack][] is at Yale University, on the West Campus.  Oct 31 through Nov 2, 2014.
+
 # Sponsoring YHack
 
 This is the first year we are sponsoring [YHack 2014](http://yhack.org); we are looking forward to a great event.
@@ -160,3 +163,4 @@ Please contact Eduardo if you are interested in a (short) Winter Internship.  Ch
 project goals and qualifications.
 
    
+[YHack]: http://yhack.org

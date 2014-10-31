@@ -5,6 +5,13 @@ layout: default
 
 The latest version of this file is available at [pelegri.github.com/lahacks](http://pelegri.github.com/lahacks).  Also see the [handout](http://pelegri.github.com/lahacks/handout.html)  
 
+# Venue
+  [LAHacks][] is at UCLA, at the Pauley Pavilion. April 11-13, 2014.
+
+ **Event Reports**:  
+  At _Pelegri Blog_: [LA Hacks](http://pelegri.wordpress.com/2014/04/25/lahacks/), [Mixr](http://pelegri.wordpress.com/2014/04/25/lahacks-mixr/), [Bloodhound](http://pelegri.wordpress.com/2014/04/25/lahacks-bloodhound/), [Blicket](http://pelegri.wordpress.com/2014/04/26/lahacks-blicket/), [Pindow](http://pelegri.wordpress.com/2014/04/26/la-hacks-pindow/).  
+  At _Progress Blog_: [No Slackers Among These LA Hackers](https://viewfromtheedge.progress.com/2014/05/slackers-la-hackers/).
+
 # Sponsor
    Progress Software
 
@@ -97,3 +104,4 @@ Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) --  Add Rollbase for super-ex
    1st prize is a iPad mini retina  
    2nd prize is the Pebble or the Philips Hue SDK  
    
+[LAHacks]: http://lahacks.com
