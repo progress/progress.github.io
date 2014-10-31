@@ -3,30 +3,39 @@ Tttle: Welcome to YHack
 layout: default
 ---
 
-TBD!!
+*WORK IN PROGRES*
 
+Progress is one of the sponsors for [YHack](http://yhack.org) this year and we will be represented by Shelley Chase from our Rollbase and Rollbase Mobile team and Jeremiah Harlan from our Modulus team.
 
-The latest version of this file is available at [pelegri.github.com/lahacks](http://pelegri.github.com/lahacks).  Also see the [handout](http://pelegri.github.com/lahacks/handout.html)  
 
 # Sponsor
-   Progress Software
+   [Progress](http://progress.com) Software.  
+   [Modulus](http://modulus.io) is part of Progress.
 
-# Contact
-   Eduardo Pelegri-Llopart, VP, technology  
-   Redwood City, CA, USA  
-   http://pelegri.github.com, http://pelegri.wordpress.com  
-   @pelegri  
-   pelegri@calterra.com, epelegri@progress.com, epelegrillopart.w@gmail.com  
+# Contacts
+   Shelley Chase  
+   Jeremiah Harlan  
+
+*Other Contacts* - Eduardo Pelegri-Llopart ([twitter](@pelegri), [blog](http://pelegri.wordpress.com)); not at event!
 
 # Company Details:
-   Main sites in Bedford MA (HQ, near Boston), Morrisville NC (nead Raleigh) and Hyderadab, India, plus others.
+   Progress HQ is in Bedford MA (HQ, near Boston).  The Modulus subsidiary is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
-# LAHacks Theme
-Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) --  Add Rollbase for super-extra credit
+# Main Relevant Products
+ Rollbase - TBD  
+ Rollbase Mobile - TBD  
+ Modulus - TBD   
+
+# YHack Theme
+Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) + Rollbase + Rollbase Mobile.  
+This 
 
 # Details:
    Use Node.js to create an IOT application.  There is a small IOT lending library.   You can optionally leverage some Rollbase or other Pacific services (see below).  There are prizes. 
 
+
+# Samples
+ TBD
 
 # API Program Summary:
    Node.js - you know about it.  
@@ -35,9 +44,14 @@ Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) --  Add Rollbase for super-ex
    Pacific (mostly Rollbase) - check http://progress.com/hackathon 
 
 
-# Progress at LAHacks
-   "We" (Eduardo) are in the booth at the end of the hallway. I won't be able to man the booth all the time, be patient with me and check booth hours.
+# SWAG
+  TBD
 
+---- MOST OF BELOW IS FROM LAHACKS ----
+
+
+# Progress at YHACK
+   Shelley and Jeremiah are in the booth - look for our XXX.
 
 # Booth Hours:
   Hours will be updated through the event.  
