@@ -3,28 +3,56 @@ Tttle: Welcome to YHack
 layout: default
 ---
 
-*WORK IN PROGRES*
+Progress is a proud sponsors for [YHack 2014](http://yhack.org).
+We have two engineers from our core teams attending the event:
+Shelley Chase from our Rollbase and Rollbase Mobile team and Jeremiah Harlan from our Modulus team.
 
-Progress is one of the sponsors for [YHack](http://yhack.org) this year and we will be represented by Shelley Chase from our Rollbase and Rollbase Mobile team and Jeremiah Harlan from our Modulus team.
 
-
-# Sponsor
-   [Progress](http://progress.com) Software.  
-   [Modulus](http://modulus.io) is part of Progress.
+# Sponsor Links
+   [Progress](http://progress.com) Software and [Modulus](http://modulus.io), a Progress Company.
 
 # Contacts
-   Shelley Chase  
-   Jeremiah Harlan  
+**Main Contacts**: Shelley Chase ([email](mailto:schase@progress.com)) for Rollbase and Rollbase Mobile,
+and Jeremiah Harlan ([email](mailto:jeremiah@modulus.io)) for Modulus.
 
-*Other Contacts* - Eduardo Pelegri-Llopart ([twitter](@pelegri), [blog](http://pelegri.wordpress.com)); not at event!
+*Secondary Contact, not at event*: Eduardo Pelegri-Llopart ([email](mailto:epelegri@progress.com), [twitter](@pelegri), [blog](http://pelegri.wordpress.com)).
 
 # Company Details:
    Progress HQ is in Bedford MA (HQ, near Boston).  The Modulus subsidiary is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
-# Main Relevant Products
- Rollbase - TBD  
- Rollbase Mobile - TBD  
- Modulus - TBD   
+# Products Most Relevant to YHack
+
+Progress has a number of products; the ones that are most likely relevant to the attendees at YHack are Modulus, Rollbase and Rollbase Mobile.
+
+## Modulus (tm)
+Modulus is a Node.js hosting platform that provides a complete technology stack for application developers. This includes custom SSL, WebSockets, MongoDB, statistics, and [more](https://modulus.io/features).
+There are a number of [AddOns available](http://addons.modulus.io),
+including [Searchly](https://addons.modulus.io/searchly), [IronWorker](https://addons.modulus.io/searchly),
+[KeenIO](https://addons.modulus.io/searchly), [IronMQ](https://addons.modulus.io/searchly)
+and [SendGrid](https://addons.modulus.io/searchly).
+Note that all these addons have a free entry level.  There are also over 103K modules at [NPM](http://npmjs.org).
+
+You can learn more about Modulus from the [Modulus blog](http://blog.modulus.io)
+and the [Modulus Help Page](http://help.modulus.io).
+
+Using Modulus requires loging in, which can be done with your Github id, or with a Modulus account.
+Modulus [registration](https://modulus.io/register) automatically gives you $15 free Modulus credit, about one month;
+attendees at YHack can use **promo** _YHACKS14_ worth $30 Modulus credits.
+
+**Samples** - You can find multiple useful open source samples at [github.com/onmodulus](http://github.com/onmodulus).
+Node and MongoDB are widely used in the internet; an internet search will likely find you a sample of pretty much 
+anything you are interested in.
+
+## Rollbase
+Rollbase is a development and deployment platform for
+
+**Samples** - You can find multiple open source samples at [github.com/progress](http://github.com/progress).  They cover
+Rollbase, Node, Mongo, ExpressJS, AngularJS, IOT (Philips Hue and iBeacons) and others.  You can also find additional information
+in the blogs of [David Inglis](http://dcinglis.wordpress.com) and [Keegan Mendoca](http://mendoncakeegan.wordpress.com)
+
+## Rollbase Mobile
+Rollbase Mobile is an [Apache Cordova]()-based online tool that can be used 
+
 
 # YHack Theme
 Theme:  Node.js + IOT ( Qualcomm Gimbal / Pebble ) + Rollbase + Rollbase Mobile.  
@@ -34,11 +62,12 @@ This
    Use Node.js to create an IOT application.  There is a small IOT lending library.   You can optionally leverage some Rollbase or other Pacific services (see below).  There are prizes. 
 
 
-# Samples
- TBD
+# Additional Learning Links
 
-# API Program Summary:
-   Node.js - you know about it.  
+**Node.js** - There are many learning resources.  On the Modulus side check out[An Absolute Beginnger's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and several posts on [ExpressJS](http://blog.modulus.io/tag/express) and [Hapi](http://blog.modulus.io/tag/hapi).  Several of our samples also use [AngularJS](http://angularjs.org), which is a very popular client-side framework.
+
+**iBeacons** - There 
+
    Pebble / Node using Pushover  
    Gimbal SDK (iOS only so far - registration required)  
    Pacific (mostly Rollbase) - check http://progress.com/hackathon 
@@ -83,8 +112,10 @@ This
      -- you may need to share
    
 
-# Rules for Lending Library
+# Getting Access to the iBeacons
    Resource Allocation will be at 12:30am PT on Saturday  
+
+# Getting Access to the Philips Hue
 
    Provide contact info by sending mail to epelegri@progress.com with:  
      CC everybody in the team,  
@@ -99,18 +130,24 @@ This
    All other resources need to be returned to the booth by XXXXXX.  
 
 # Judging Rules:
-   Hacks will be judged on originality, technical difficulty, and applicability.  
-   Extra points will be awarded if your hack leverages one of Pacific's services (see link), but that is not necessary.  
-
-# Judges:
-   Main judge is eduardo but some additional judges will be remote; to help them:  
-   Mail to epelegri@progress.com with:  
-   * Your team information  
-   * A link to a description of your hack  
-   * A link to a short video showcasing your hack.  
+   Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
 
 # Prizes:
-   All teams that "complete" their hack can keep their Qualcom Gimbals  
-   1st prize is a iPad mini retina  
-   2nd prize is the Pebble or the Philips Hue SDK  
+   All teams that complete their hack can keep their Qualcom Gimbals  
+
+   The prizes are:
+
+* 2 [BeagleBone Blacks](http://beaglebone.org/black)
+* 2 Philips Hue Starter Kits.
+
+At the discretion of the judges we may allocate **additional prizes**, including larger resources for running on the MOdulus and Rollbase platforms.
+
+# Judges:
+   Main judges are Jeremiah and Shelley.  Please be sure the judges are aware your hack is targetting this content.
+
+# Winter Internships
+
+Please contact Eduardo if you are interested in a (short) Winter Internship.  Check [Internship Details] first for
+project goals and qualifications.
+
    
