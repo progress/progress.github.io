@@ -6,6 +6,15 @@ layout: default
 # Venue
   [YHack][] is at Yale University, on the West Campus.  Oct 31 through Nov 2, 2014.
 
+# API Prizes
+Yes, we know you want to know what are the prizes, so, first things first!
+
+We have TWO [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz.  These cuties are fun and will run your Node.js stack, your Chrome browser, or whatever!
+
+<center><img width="400" src="../images/BBB.jpg"/></center>
+
+Now, back to the boring stuff.
+
 # Sponsoring YHack
 
 This is the first year we are sponsoring [YHack 2014](http://yhack.org); we are looking forward to a great event.
