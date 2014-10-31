@@ -125,7 +125,7 @@ ROllbase can be used to model objects and handle authentication and then to quic
    The beacons can be borrowed for the duration of the event. THey are Qualcom Gimbal Series 10.  They will be handed out at midnight on Friday; you will need to provide a description of what you are planning to do with them as we have a lmite number of them.
 
 ## Philips Hue Bridge
-   We have 2 Philips Hue SDK - 1 (bridge + 2 monochrome lights) that we can lend.  Coordinate with Shelley and Jeremiah and be ready to share with other teams.
+   We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.  Coordinate with Shelley and Jeremiah and be ready to share with other teams.
 
 You will need to provide contact info by mailing SHelley or Jeremiah with:
 
@@ -136,7 +136,7 @@ You will need to provide contact info by mailing SHelley or Jeremiah with:
 
 # Resources on Completion of Project
    You can keep your Qualcomm Gimbal at the end of the hackathon once you are done.
-   The Philips Hue are part of the prizes, so we need them back.
+   We need the Philips Hue back.
    
 # Judging
 Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
@@ -149,10 +149,8 @@ Main judges are Jeremiah and Shelley.  Please be sure the judges are aware your 
 
    The prizes are:
 
-* 2 [BeagleBone Blacks](http://beaglebone.org/black)
-* 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack)
-
-At the discretion of the judges we may allocate **additional prizes**, including larger resources for running on the MOdulus and Rollbase platforms.
+* 2 [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz. Fun!
+* At the discretion of the judges we may allocate **additional prizes**, including larger credits for running on the MOdulus and Rollbase platforms.
 
 # Come by, say hi, get some SWAG
 Shelley and Jeremiah are bringing SWAG, from sticker to t-shirts.  Come by our booth to say hi and grab some SWAG.
