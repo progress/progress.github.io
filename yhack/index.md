@@ -128,25 +128,14 @@ ROllbase can be used to model objects and handle authentication and then to quic
 
 **Philips Hue** - Documentation is available [here](http://www.developers.meethue.com/). ALso see the [roll-call](https://github.com/progress/roll-call) sample.
 
-# Lending Library Resources  
+# HARDWARE Lending Library
 
-## iBeacon:
-   The beacons can be borrowed for the duration of the event. THey are Qualcom Gimbal Series 10.  They will be handed out at midnight on Friday; you will need to provide a description of what you are planning to do with them as we have a lmite number of them.
+These resources will be available at the HARWARE section at the front desk.
 
-## Philips Hue Bridge
-   We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.  Coordinate with Shelley and Jeremiah and be ready to share with other teams.
+**iBeacon** - We have a limited number of Qualcom Gimbal series 10 that can be borrowed for the duration of the event.
 
-You will need to provide contact info by mailing SHelley or Jeremiah with:
+**Philips Hue Bridge** - We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.
 
-* CC everybody in the team,  
-* Team Number / location and Team Name (if you have one)  
-* Initial idea / area of what you plan to do with the resource.  
-* For each member of the team, please provide full name, school, major and year  
-
-# Resources on Completion of Project
-   You can keep your Qualcomm Gimbal at the end of the hackathon once you are done.
-   We need the Philips Hue back.
-   
 # Judging
 Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
 
