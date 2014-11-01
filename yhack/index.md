@@ -9,13 +9,26 @@ layout: default
 # API Prizes
 Yes, we know you want to know what are the prizes, so, first things first!
 
-We have TWO [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz.  These cuties are fun and will run your Node.js stack, your Chrome browser, or whatever!
+We have TWO [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz.  These cuties are fun and will run your Node.js stack, your Linux apps, your Chrome browser, or whatever!
 
 <center><img width="400" src="../images/BBB.jpg"/></center>
 
+# HARDWARE Lending Library
+
+One of our interests is in combining Hardware and Software using our APIs, so we are making some
+extra resources available at the HARWARE section at the front desk.
+
+**iBeacon** - We have a limited number of Qualcom Gimbal series 10 that can be borrowed for the duration of the event.
+
+**Philips Hue Bridge** - We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.
+
+<br/>
+<br/>
+
 Now, back to the boring stuff.
 
-# Sponsoring YHack
+
+# Progress and YHack
 
 This is the first year we are sponsoring [YHack 2014](http://yhack.org); we are looking forward to a great event.
 Two of our engineers will attend the event:
@@ -24,23 +37,23 @@ Shelley Chase from our Rollbase and Rollbase Mobile team and Jeremiah Harlan fro
 Below is some additional information about Progress and our participation.
 
 
-# Sponsor Links
+### Sponsor Links
    [Progress](http://progress.com) Software and [Modulus](http://modulus.io), a Progress Company.
 
-# Contacts
+### Contacts
 **Main Contacts**: Shelley Chase ([email](mailto:schase@progress.com)) for Rollbase and Rollbase Mobile,
 and Jeremiah Harlan ([email](mailto:jeremiah@modulus.io)) for Modulus.  Our booth at YHack is TBD.
 
 *Secondary Contact, not at event*: Eduardo Pelegri-Llopart ([email](mailto:epelegri@progress.com), [twitter](@pelegri), [blog](http://pelegri.wordpress.com)).
 
-# Company Details:
+### Company Details:
    Progress HQ is in Bedford MA (HQ, near Boston).  The Modulus subsidiary is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
-# Products Most Relevant to YHack
+# Progress APIS at YHack
 
 Progress has a number of products; the ones that are most likely relevant to the attendees at YHack are Modulus, Rollbase and Rollbase Mobile.
 
-## Modulus (tm)
+### Modulus
 Modulus is a Node.js hosting platform that provides a complete technology stack for application developers. This includes custom SSL, WebSockets, MongoDB, statistics, and [more](https://modulus.io/features).
 There are a number of [AddOns available](http://addons.modulus.io),
 including [Searchly](https://addons.modulus.io/searchly), [IronWorker](https://addons.modulus.io/searchly),
@@ -59,7 +72,7 @@ attendees at YHack can use **promo** _YHACKS14_ worth $30 Modulus credits.
 Node and MongoDB are widely used in the internet; an internet search will likely find you a sample of pretty much 
 anything you are interested in.
 
-## Rollbase
+### Rollbase
 Rollbase is a cloud platform for the rapid creation and deployment of applications.  Rollbase applications are built
 by defininig object types with fields from different sources, and views and pages to interact on objects, with support
 for triggers, workflow, javascript actions, and more.  Depending on your background, you will recognize features present in
@@ -78,7 +91,7 @@ If you want really detailed info on Rollbase (and Rollbase Mobile), check the [E
 Rollbase, Node, Mongo, ExpressJS, AngularJS, IOT (Philips Hue and iBeacons) and others.  You can also find additional information
 in the blogs of [David Inglis](http://dcinglis.wordpress.com) and [Keegan Mendoca](http://mendoncakeegan.wordpress.com)
 
-## Rollbase Mobile
+### Rollbase Mobile
 Rollbase Mobile is an online tool that can be used to create hybrid mobile apps using
 [Apache Cordova](http://cordova.apache.org).
 The tool uses the same
@@ -87,7 +100,7 @@ The direct link to the tool is [here](https://mobile.rollbase.com).
 
 Rollbase Mobile also includes several server-side services. Detailed documentation on Rollbase Mobile is [here](http://docs.mobile.rollbase.com/tutorials/).
 
-# Samples
+# Samples and More
 
 The samples at [github.com/onmodulus](http://github.com/onmodulus)
 and [github.com/progress](http://github.com/progress) may provide inspiration and initial code for multiple projects including:
@@ -106,9 +119,17 @@ and
 The samples in github.com/progress cover a fair range of architectures.   You may want to check some presentations
 mentioned [here](http://pelegri.wordpress.com/2014/10/27/latest-presentations-at-slideshare/).
 
+### Additional Learning Links
+
+**Node.js** - There are many learning resources.  On the Modulus side check out[An Absolute Beginnger's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and several posts on [ExpressJS](http://blog.modulus.io/tag/express) and [Hapi](http://blog.modulus.io/tag/hapi).  Several of our samples also use [AngularJS](http://angularjs.org), which is a very popular client-side framework.
+
+**iBeacons** - Apple has a fair amount of documentation; see [iBeacon for Developers](https://developer.apple.com/ibeacon/).  The Gimbal portal has documentation including how to activate the beacons; you will need to register and login [here](http://manager.gimbal.com).  Also see the [scanner](https://github.com/progress/ios-beacon-scanner) and the [roll-call](https://github.com/progress/roll-call) samples.
+
+**Philips Hue** - Documentation is available [here](http://www.developers.meethue.com/). ALso see the [roll-call](https://github.com/progress/roll-call) sample.
+
 # YHack Challenge
 We welcome any hacks that use at least one of our products.  We are making the iBeacons and the Philips Hue available
-to encourage you to play with these IOT elements but you do not need to use them.
+to encourage you to play with these IOT elements, but you do not need to use them.
 
 Modulus, with NOde.js and MongoDB is useful in **many** contexts.
 
@@ -120,29 +141,13 @@ Rollbase Mobile can be used to quickly put together a Hybrid app.
 ROllbase can be used to model objects and handle authentication and then to quickly generate dashboards and other applications, potentially using the Web API to drive a mobile application.
 
 
-# Additional Learning Links
-
-**Node.js** - There are many learning resources.  On the Modulus side check out[An Absolute Beginnger's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), and several posts on [ExpressJS](http://blog.modulus.io/tag/express) and [Hapi](http://blog.modulus.io/tag/hapi).  Several of our samples also use [AngularJS](http://angularjs.org), which is a very popular client-side framework.
-
-**iBeacons** - Apple has a fair amount of documentation; see [iBeacon for Developers](https://developer.apple.com/ibeacon/).  The Gimbal portal has documentation including how to activate the beacons; you will need to register and login [here](http://manager.gimbal.com).  Also see the [scanner](https://github.com/progress/ios-beacon-scanner) and the [roll-call](https://github.com/progress/roll-call) samples.
-
-**Philips Hue** - Documentation is available [here](http://www.developers.meethue.com/). ALso see the [roll-call](https://github.com/progress/roll-call) sample.
-
-# HARDWARE Lending Library
-
-These resources will be available at the HARWARE section at the front desk.
-
-**iBeacon** - We have a limited number of Qualcom Gimbal series 10 that can be borrowed for the duration of the event.
-
-**Philips Hue Bridge** - We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.
-
-# Judging
+### Judging
 Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
 
 Main judges are Jeremiah and Shelley.  Please be sure the judges are aware your hack is targetting this content.
 
 
-# Prizes:
+### Prizes:
    All teams that complete their hack can keep their Qualcom Gimbals  
 
    The prizes are:
@@ -150,8 +155,13 @@ Main judges are Jeremiah and Shelley.  Please be sure the judges are aware your 
 * 2 [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz. Fun!
 * At the discretion of the judges we may allocate **additional prizes**, including larger credits for running on the MOdulus and Rollbase platforms.
 
+<br/>
+
 # Come by, say hi, get some SWAG
 Shelley and Jeremiah are bringing SWAG, from sticker to t-shirts.  Come by our booth to say hi and grab some SWAG.
+
+<br/>
+<br/>
 
 # Added - Winter Internships
 
