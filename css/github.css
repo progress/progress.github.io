@@ -93,14 +93,42 @@ a.newsPost:visited
 {
 	position: absolute;
 	top: 15px;
-	height: 50px;
-	width: 342px;
-	background-image: url('../images/progress-logo.png');
+	height: 66px;
+        width: 303px;
+	background-image: url('../images/progress-logo-black-new.png'); 
+
+/*	background-color: #FF4E00;  */
 	background-repeat: no-repeat;
 	left: 50%;
     margin-left: -482px;
 	cursor: hand;
 	cursor:pointer;
+}
+
+.modulus-logo
+{
+	position: absolute;
+	top: 15px;
+	height: 66px;
+	width: 300px;
+	background-image: url('../images/modulus-logoSmall-dark-new.jpeg');
+	background-repeat: no-repeat;
+	left: 50%;
+    margin-left: 260px;
+	cursor: hand;
+}
+
+.modulus-logo-left
+{
+	position: absolute;
+	top: 15px;
+	height: 66px;
+	width: 300px;
+	background-image: url('../images/modulus-logoSmall-dark-new.jpeg');
+	background-repeat: no-repeat;
+	left: 50%;
+	margin-left: -230px;
+	cursor: hand;
 }
 
 .github-logo

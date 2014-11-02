@@ -1,5 +1,5 @@
 ---
-Tttle: Welcome to HackTECH
+title: Welcome to HackTECH
 layout: default
 ---
 
