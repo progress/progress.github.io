@@ -3,9 +3,39 @@ Tttle: Welcome to EMEA PUG Challenge
 layout: default
 ---
 
-TBD!!
 
-The latest version of this file is available at [pelegri.github.com/lahacks](http://pelegri.github.com/lahacks).  Also see the [handout](http://pelegri.github.com/lahacks/handout.html)  
+# What is a Hackathon
+An oppty to learn.
+A Party.
+An oppty to win some prizes.
+
+# Venue
+  Event will be at XYZ.
+
+# Hours
+  From A til B.
+
+# Prizes
+Yes, we know you want to know what are the prizes, so, first things first!
+
+We have TWO [BeagleBone Blacks](http://beaglebone.org/black) - Linux, HDMI, Ethernet, USB, ARM Cortex-A8 1GHz.  These cuties are fun and will run your Node.js stack, your Linux apps, your Chrome browser, or whatever!  Think of these as having the power of a good smartphone of a couple of years ago.
+
+<center><img width="400" src="../images/BBB.jpg"/></center>
+
+We will give away some iBeacons
+
+
+# HARDWARE Lending Library
+
+One of our interests is in combining Hardware and Software using our APIs, so we are making some
+extra resources available at the HARWARE section at the front desk.
+
+**iBeacon** - We have a limited number of Qualcom Gimbal series 10 that can be borrowed for the duration of the event.
+
+**Philips Hue Bridge** - We have 2 [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack) (bridge + 2 monochrome lights) that we can lend.
+
+
+
 
 # Sponsor
    Progress Software
