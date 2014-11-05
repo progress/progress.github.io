@@ -14,9 +14,11 @@ layout: default
 
 # Dates
   EMEA PUG Challenge is Wednesday, Nov 19 to Friday, Nov 21st.  Official hours for the hackathon are Wed 6pm to 9pm and then
-Thu 8pm to 10pm, but the room will be available at other times.   Awards are presented on Friday after the general session.
+Thu 8pm to 10pm, but the room will be available at other times.  
 
-(Judging will happen -- TBD!)
+Awards are presented on Friday after the general session.
+
+Judging will happen -- (before the award, details still TBD!)
 
 # Prizes
 Prizes are a key part of Hackathons!
@@ -59,7 +61,7 @@ from bridge to bulb to bulb using a mesh topology.  A single bridge can control 
 You can read about these gizmos in a number of places, including in [this post](https://bizappstoday.progress.com/2014/10/ibeacons-philips-hue-node-twice.html) or in [these ones](http://pelegri.wordpress.com/2014/08/07/2014-summer-interns/).
 
 
-# HARDWARE Lending Library
+# Lending Library
 
 We will also bring some extra goodies for your hacks.  Current plan is
 
@@ -73,8 +75,41 @@ We will also bring some extra goodies for your hacks.  Current plan is
 **Eduardo** Pelegri-Llopart, Progress - [blog](http://pelegri.wordpress.com), [@pelegri](http://twitter.com/pelegri), [email](mailto:epelegri@progress.com)  
 **Ludovic** Aelbrecht, Progress - [email](mailto:laelbrecht@progress.com)  
 
-# Theme
-Theme:  Node.js (Modulus / MongoDB) + IOT ( Qualcomm Gimbal / Philips Hue / Wearable ) + Rollbase + Mobile + ...
+# Hachathon Themes
+*In a nutshell*  
+Node.js (Modulus / MongoDB) + IOT ( Qualcomm Gimbal / Philips Hue / Wearable ) + Rollbase + Mobile + ...
+
+<br/>
+
+*Expanded*  
+We welcome any hacks that use at least one of our products.  We are making the iBeacons and the Philips Hue available
+to encourage you to play with these IOT elements, but you do not need to use them.
+
+Modulus, with NOde.js and MongoDB is useful in **many** contexts.
+
+iBeacons can be used with the Gimbal devices but other devices (like iOS, Mac and Android) also support Bluetooth Low Energy
+and can also be used.
+
+Rollbase Mobile can be used to quickly put together a Hybrid app.
+
+ROllbase can be used to model objects and handle authentication and then to quickly generate dashboards and other applications, potentially using the Web API to drive a mobile application.
+
+### Prep Work Ahead of Hackathon
+
+You may want to:
+
+* Install Node.js in your laptop
+* Get a Modulus account
+* Write a "hello world" (see [Absolute Beginners Guide](https://github.com/onmodulus/absolute-beginners-guide-nodejs))
+* Get a Rollbase Account
+
+
+### Judging
+Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
+
+Judges will include Ludovic and Eduardo; others will be added.
+
+# More on the Products
 
 ### Modulus
 Modulus is a Node.js hosting platform that provides a complete technology stack for application developers. This includes custom SSL, WebSockets, MongoDB, statistics, and [more](https://modulus.io/features).
@@ -149,23 +184,4 @@ mentioned [here](http://pelegri.wordpress.com/2014/10/27/latest-presentations-at
 **iBeacons** - Apple has a fair amount of documentation; see [iBeacon for Developers](https://developer.apple.com/ibeacon/).  The Gimbal portal has documentation including how to activate the beacons; you will need to register and login [here](http://manager.gimbal.com).  Also see the [scanner](https://github.com/progress/ios-beacon-scanner) and the [roll-call](https://github.com/progress/roll-call) samples.
 
 **Philips Hue** - Documentation is available [here](http://www.developers.meethue.com/). ALso see the [roll-call](https://github.com/progress/roll-call) sample.
-
-# EMEA PUG Challenge
-We welcome any hacks that use at least one of our products.  We are making the iBeacons and the Philips Hue available
-to encourage you to play with these IOT elements, but you do not need to use them.
-
-Modulus, with NOde.js and MongoDB is useful in **many** contexts.
-
-iBeacons can be used with the Gimbal devices but other devices (like iOS, Mac and Android) also support Bluetooth Low Energy
-and can also be used.
-
-Rollbase Mobile can be used to quickly put together a Hybrid app.
-
-ROllbase can be used to model objects and handle authentication and then to quickly generate dashboards and other applications, potentially using the Web API to drive a mobile application.
-
-
-### Judging
-Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
-
-Judges will include Ludovic and Eduardo; others will be added.
 
