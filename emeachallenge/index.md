@@ -5,15 +5,18 @@ layout: default
 
 
 # What is a Hackathon
-An oppty to learn.
-A Party.
-An oppty to win some prizes.
+* An opportunity to learn.
+* A party and an opportunity to socialize.
+* An opportunity to win some prizes.
 
 # Venue
-  Event will be at XYZ.
+  The hackathon is part of the [EMEA PUG Challenge](http://www.pugchallenge.eu/) which this year is at Dusseldorf, in the [Hilton Dusseldorf](http://www3.hilton.com/en/hotels/north-rhine-westphalia/hilton-dusseldorf-DUSHITW/index.html).
 
-# Hours
-  From A til B.
+# Dates
+  EMEA PUG Challenge is Wednesday, Nov 19 to Friday, Nov 21st.  Official hours for the hackathon are Wed 6pm to 9pm and then
+Thu 8pm to 10pm, but the room will be available at other times.   Awards are presented on Friday after the general session.
+
+(Judging will happen -- TBD!)
 
 # Prizes
 Prizes are a key part of Hackathons!
