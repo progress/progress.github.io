@@ -34,7 +34,7 @@ All **participants** will get
 1. one [BeagleBone Blacks](http://beaglebone.org/black) (BBB)
 1. one entry level [Philips Hue Starter Kits](http://store.apple.com/us/product/HFV02VC/A/philips-hue-lux-starter-pack)
 (1 bridge + 2 white only LEDs)
-1. one LG Android Wear G-watch
+1. <strike>one LG Android Wear G-watch</strike> **Sorry - couldn't bring it**
 1. one iPod Touch (this is a great developer iOS device).
 1. one iBeacon Gimbal Series 20
 
@@ -68,7 +68,7 @@ We will also bring some extra goodies for your hacks.  Current plan is
 1. The iBeacons Series 10 and Series 20
 1. Some Philips Hue SDK
 1. A Phlips Hue light strip and a Boom Light
-1. (maybe) a MS Band.
+1. <strike>(maybe) a MS Band</strike> **SOLD OUT - NEXT TIME**
  
 
 # Support people
