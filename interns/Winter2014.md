@@ -24,6 +24,9 @@ Specific topics will be adjusted based on the candidate but the current pool inc
 * Upgrading our samples to Microsoft Band, Apple HomeKit, Apple Watch and Apple WatchKit, Android Wear, etc
 * Starting to generate Docker samples
 * Some more Node.js samples with AddOns and other modules
+* Incorporating KendoUI into the samples
+* Using Rollbase as a backend for some Sitefinity deployments.
+* Some samples using NativeScript.
 
 Plus some ideas related to the pending Telerik acquisition.
 
