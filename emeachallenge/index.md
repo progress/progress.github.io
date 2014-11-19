@@ -3,6 +3,10 @@ Tttle: Welcome to EMEA PUG Challenge
 layout: default
 ---
 
+# UPDATE
+We have adjusted the competition so that the hackathon will start during the event but hacks can be completed after the event, until the end of the calendar year.  Winners will be then announced in January, and prizes will be sent then.  Come by the Hackathon event, part 2 (Thursday 8pm) if you are interested in participating.
+
+Hacks submitted online need to include a writeup of the hack (e.g. blog post), as well as a video or live URL.  Code submisions are encouraged - OSS licenses always welcome but not necessary.  Submissions to be sent by email to the judges (Ludovic and Eduardo) as listed below.
 
 # What is a Hackathon
 * An opportunity to learn.
