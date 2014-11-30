@@ -8,13 +8,16 @@ We have adjusted the competition so that the hackathon will start during the eve
 
 Hacks submitted online need to include a writeup of the hack (e.g. blog post), as well as a video or live URL.  Code submisions are encouraged - OSS licenses always welcome but not necessary.  Submissions to be sent by email to the judges (Ludovic and Eduardo) as listed below.
 
+# Venue
+  The hackathon is part of the [EMEA PUG Challenge](http://www.pugchallenge.eu/) 2014 at Dusseldorf, in the [Hilton Dusseldorf](http://www3.hilton.com/en/hotels/north-rhine-westphalia/hilton-dusseldorf-DUSHITW/index.html), Nov 19-21st.
+  
+**Event Reports:**  
+  TBD  
+
 # What is a Hackathon
 * An opportunity to learn.
 * A party and an opportunity to socialize.
 * An opportunity to win some prizes.
-
-# Venue
-  The hackathon is part of the [EMEA PUG Challenge](http://www.pugchallenge.eu/) which this year is at Dusseldorf, in the [Hilton Dusseldorf](http://www3.hilton.com/en/hotels/north-rhine-westphalia/hilton-dusseldorf-DUSHITW/index.html).
 
 # Dates
   EMEA PUG Challenge is Wednesday, Nov 19 to Friday, Nov 21st.  Official hours for the hackathon are Wed 6pm to 9pm and then
