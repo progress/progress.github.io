@@ -1,5 +1,5 @@
 ---
-Tttle: Welcome to LAHacks
+Title: Welcome to LAHacks
 layout: default
 ---
 
