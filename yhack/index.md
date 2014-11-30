@@ -1,10 +1,13 @@
 ---
-Tttle: Welcome to YHack
+title: Welcome to YHack
 layout: default
 ---
 
 # Venue
   [YHack][] is at Yale University, on the West Campus.  Oct 31 through Nov 2, 2014.
+  
+**Event Reports**:  
+  At _Modulus Blog_: [Modulus at YHack](http://blog.modulus.io/modulus-at-yhack) (by Jeremiah Harlan)
 
 # API Prizes
 Yes, we know you want to know what are the prizes, so, first things first!
