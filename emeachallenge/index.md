@@ -1,5 +1,5 @@
 ---
-Tttle: Welcome to EMEA PUG Challenge
+title: Welcome to EMEA PUG Challenge
 layout: default
 ---
 
