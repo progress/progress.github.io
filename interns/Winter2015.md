@@ -11,7 +11,7 @@ Note - it used to say 2014!
 **Hiring Manager** - Eduardo Pelegri-Llopart  
 
 **Where** - Mid-Peninsula, San Francisco Bay Area (Redwood Shores or possibly downtown Palo Alto)  
-**When** - Winter / Xmas break.  Flexible on my part  
+**When** - Ideally January (Winter Break in some schools) with some flexibility around the boundaries.  
 **How Long** - 4 weeks, max 5  
 **Openings** - 2  
 
