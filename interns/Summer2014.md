@@ -1,5 +1,5 @@
 ---
-Tttle: Summer 2014 Internship
+title: Summer 2014 Internship
 layout: default
 ---
 
