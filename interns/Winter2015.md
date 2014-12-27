@@ -1,5 +1,5 @@
 ---
-Title: Winter Internship
+title: Winter Internship
 layout: default
 ---
 
