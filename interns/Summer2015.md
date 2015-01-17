@@ -3,12 +3,14 @@ title: Summer 2015 Internship
 layout: default
 ---
 
+# Summer 2015 Internship
+
 ## Details
 
 **Hiring Manager** - Eduardo Pelegri-Llopart  
 
 **Where** - Mid-Peninsula, San Francisco Bay Area (Redwood Shores or possibly downtown Palo Alto)  
-**When** - Ideally January (Winter Break in some schools) with some flexibility around the boundaries.  
+**When** - Summer (roughly June-July-August)  
 **How Long** - 10 weeks  
 **Openings** - 3 or 4
 
@@ -25,8 +27,6 @@ Specific topics will be adjusted based on the candidate but the current pool inc
 * Incorporating KendoUI into the samples
 * Using Rollbase as a backend for some Sitefinity deployments.
 * Some samples using NativeScript.
-
-Plus some ideas related to the pending Telerik acquisition.
 
 [Summer2014]: Summer2014.html
 [Winter2015]: Winter2015.html
