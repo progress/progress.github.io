@@ -22,7 +22,7 @@ layout: default
 Topics being considered include:
 
 * Evolving further [Winter2015][] to leverage the latest relevant technologies
-* Using Smartglasses and Wearables in the context of enterprise apps
+* Using Smartglasses, Fitness, Wearables, Connected Cars, etc, in the context of enterprise apps
 * Exploring further Data and Analytics in IOT
 * Exploring the role of container technologies in our stack
 
