@@ -4,10 +4,7 @@ layout: default
 ---
  
 # TODO
-* Add logos for Telerik, NativeScript and KendoUI
-* Flesh out all the TBD
-* Make this read better
-* Add prizes
+* Add pointers to the NativeScript Getting Started Guide and other useful starting points
 
 # Venue
   [HackMIT][] is at MIT.  Sep 19th and 20th.
