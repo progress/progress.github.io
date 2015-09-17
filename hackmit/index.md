@@ -19,8 +19,8 @@ layout: default
 3 prizes right now:
 
 * Best App using Modulus - [Anki Over Drive](https://anki.com/en-us)
-* Best App using NativeScript - [Anki Over Drive](https://anki.com/en-us)
-* Best App using TelerikPlatform - [Pebble Time](https://getpebble.com/pebble_time)
+* Best App using NativeScript - [Apple Watch](http://www.apple.com/watch/)
+* Best App using TelerikPlatform - [Anki Over Drive](https://anki.com/en-us)
 
 The Anki Overdrives will release on Sunday; if they are available at a local store we will get you one.  Otherwise we can arrange for an order on Amazon.
 
