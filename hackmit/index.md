@@ -16,7 +16,12 @@ layout: default
   TBD
  
 # API Prizes
-There will be some.
+3 prizes right now:
+* Best App using Modulus - [Anki Over Drive](https://anki.com/en-us)
+* Best App using NativeScript - [Anki Over Drive](https://anki.com/en-us)
+* Best App using TelerikPlatform - [Pebble Time](https://getpebble.com/pebble_time)
+
+The Anki Overdrives will release on Sunday; if they are available at a local store we will get you one.  Otherwise we can arrange for an order on Amazon.
 
 
 # Progress and HackMIT
@@ -48,7 +53,7 @@ Progress has a number of products; the ones that are most likely relevant to the
 * [Modulus](http://modulus.io) - An Application Container Platform build on Docker with support for Node.js, PHP, Java and Python.
 
 ### NativeScript
-[NativeScript](http://nativescript.org) - More details TBD
+[NativeScript](http://nativescript.org) - The latest release is 1.3, out this week.  More details TBD
 
 ### Telerik Platform
 [Telerik Platform](http://www.telerik.com/platform#overview) - More details TBD
@@ -59,14 +64,6 @@ Progress has a number of products; the ones that are most likely relevant to the
 ### Modulus
 [Modulus](http://modulus.io) - More details TBD
 
-# Samples and Other Learning Tips
-TBD
-
-# HackMIT Challenge
-TBD
-
-### Prizes:
-TBD
 
 ### Judging
 Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
