@@ -4,6 +4,8 @@ layout: default
 ---
  
 # TODO
+* Add Telerik Logo!
+* Add NativeScript Logo
 * Blub on what it does
 * Blurb on how its built
 * Blurb on who wrote it
