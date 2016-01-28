@@ -7,7 +7,7 @@ layout: default
 This page will evolve through today (Tuesday, Jan 26th, 2016)
 
 # Support for ProgressNEXT App
-If you encounter issues, please email the support alias _TBD_ (in the meantime, mail epelegri@progress.com and Mehfuz.Hossain@telerik.com)
+If you encounter issues, please email the support alias [progressnextapp@progress.com|mailto:progressnextapp@progress.com]
 
 # Where to download the App
 TBD
