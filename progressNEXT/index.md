@@ -26,5 +26,5 @@ We started developing the app very late in November and, as in any fast-moving d
 The next version of the app will use NativeScript.
 
 # Other TODO
-The template used by this microsite needs to be updated to include also the Telerik and NativeScript logos
+The template used by this microsite needs to be updated to also include the Telerik and NativeScript logos
  
