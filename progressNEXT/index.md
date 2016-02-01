@@ -4,7 +4,7 @@ layout: default
 ---
  
 # Overview
-The progressNEXT app is a mobile app (iOS and Android) written using Progress technology.  The mobile app itself is a hybrid app (Apache Cordova / PhoneGap).  The backend store and some server-side functionality is in Rollbase.  The notification service is that of the Telerik Platform.  Modulus is used to host several services and as router and glue.  The mobile app was designed using the Telerik Platform tools.
+The progressNEXT app is a mobile app (iOS and Android) written using Progress technology.  The mobile app itself is a hybrid app (Apache Cordova / PhoneGap).  The backend store and some server-side functionality is in Rollbase.  The notification service is that of the Telerik Platform.  Modulus is used to host several small apps and as router and glue.  The mobile app was designed using the Telerik Platform tools.
 
 # Support for ProgressNEXT App
 If you encounter issues, please email the support alias [progressnextapp@progress.com](mailto:progressnextapp@progress.com)
