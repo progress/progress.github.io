@@ -10,10 +10,10 @@ The progressNEXT app is a mobile app (iOS and Android) written using Progress te
 If you encounter issues, please email the support alias [progressnextapp@progress.com](mailto:progressnextapp@progress.com)
 
 # Where to download the App
-The progressNEXT is available in Google Play and in the iTunes store.
+The progressNEXT is available in Google Play and in the iTunes store; it is published by Progress Software.
 
 # What's about some secret functionality?
-We have been working on an extra feature related to the app.  Its very much a stretch goal; cross-fingers and stay tuned.
+We have been working on an extra feature related to the app.  It's very much a stretch goal; keep your fingers crossed and stay tuned.
 
 # Authorship
 The progressNEXT app was written in partnership by [JungleLasers](http://www.geo30.com/) and Progress.
@@ -23,8 +23,8 @@ We plan to open source the code for the app.  Mail [progressnextapp@progress.com
 # Evolution of the App
 We started developing the app very late in November and, as in any fast-moving development, we have a number of RFEs and cleanup items in our list.  Your feedback and interest would help us prioritize the development of these features.
 
-We are already planning to use NativeScript for the next version of this app.  We considered  NativeScript is more flexible and also addresses some 
+The next version of the app will use NativeScript.
 
 # Other TODO
-* The template used by this microsite needs to be updated to include also the Telerik and NativeScript logos
+The template used by this microsite needs to be updated to include also the Telerik and NativeScript logos
  
