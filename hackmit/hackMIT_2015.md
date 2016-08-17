@@ -1,36 +1,33 @@
 ---
-title: Welcome to HackMIT
+title: Welcome to HackMIT 2015
 layout: default
 ---
  
-# TODO 2016
-* All new material
-* Emphasis for 2016 will be [NativeScript](http://nativescript.org) and [Modulus](http://modulus.io)
 
-# HackMIT 2015
-The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
-
+# TODO 2015
+* Add pointers to the NativeScript Getting Started Guide and other useful starting points
+* Add logos for NativeScript, KendoUI and Telerik
 
 # Venue
-  [HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
+  [HackMIT][] is at MIT.  Sep 19th and 20th, 2015.
   
 **Event Reports**:  
-  TBD
+See the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and the [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492).
  
 # API Prizes
-Yes, there will be prizes.  Still figuring out what they are.
+3 prizes right now:
 
-* Best App using NativeScript - TBD
-* Best App using Modulus - TBD
-* Best IOT App (?) - TBD
+* Best App using Modulus - [Anki Over Drive](https://anki.com/en-us)
+* Best App using NativeScript - [Apple Watch Sport](http://www.apple.com/watch/)
+* Best App using TelerikPlatform - [Anki Over Drive](https://anki.com/en-us)
+
+The Anki Overdrives will release on Sunday; if they are available at a local store we will get you one.  Otherwise we can arrange for an order on Amazon.
 
 
 # Progress and HackMIT
 
-This is the first year we are sponsoring [HackMIT](http://hackmit.org); we are looking forward to a great event.
-Three of our engineers will attend the event:
-Jen Looper from our Telerik team, Jeremiah Harlan from our Modulus team,
-and Eduardo Pelegri-Llopart from our CTO organization.
+This is the second year we are sponsoring [HackMIT](http://hackmit.org); last year we had a great time and we are looking forward to coming back this year.
+We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
 
 Below is some additional information about Progress and our participation.
 
