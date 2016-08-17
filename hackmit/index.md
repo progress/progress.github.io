@@ -3,7 +3,11 @@ title: Welcome to HackMIT
 layout: default
 ---
  
-# TODO
+# TODO 2016
+* All new material
+* Emphasis for 2016 will be [NativeScript](http://nativescript.org) and [Modulus](http://modulus.io)
+
+# TODO 2015
 * Add pointers to the NativeScript Getting Started Guide and other useful starting points
 * Add logos for NativeScript, KendoUI and Telerik
 
