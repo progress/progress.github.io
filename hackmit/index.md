@@ -3,15 +3,16 @@ title: Welcome to HackMIT
 layout: default
 ---
  
-# Previous Events
+## Previously: HackMIT 2015
 
-## HackMIT 2015
 The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
 
-# Venue
-  [HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
+# Logistics
+
+[HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
  
 # API Prizes
+
 Yes, there will be prizes.  Still figuring out what they are.
 
 * Best App using NativeScript (cross-platorm native mobile apps using JavaScript and CSS)- TBD
