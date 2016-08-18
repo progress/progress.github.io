@@ -23,11 +23,12 @@ See the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015
 
 The Anki Overdrives will release on Sunday; if they are available at a local store we will get you one.  Otherwise we can arrange for an order on Amazon.
 
-
 # Progress and HackMIT
 
-This is the second year we are sponsoring [HackMIT](http://hackmit.org); last year we had a great time and we are looking forward to coming back this year.
-We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
+This is the first year we are sponsoring [HackMIT](http://hackmit.org); we are looking forward to a great event.
+Three of our engineers will attend the event:
+Jen Looper from our Telerik team, Jeremiah Harlan from our Modulus team,
+and Eduardo Pelegri-Llopart from our CTO organization.
 
 Below is some additional information about Progress and our participation.
 

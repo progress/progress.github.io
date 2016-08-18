@@ -3,13 +3,13 @@ title: Welcome to HackMIT
 layout: default
 ---
  
+# Previous Events
+## HackMIT 2015
+The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
+
 # TODO 2016
 * All new material
 * Emphasis for 2016 will be [NativeScript](http://nativescript.org) and [Modulus](http://modulus.io)
-
-# HackMIT 2015
-The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
-
 
 # Venue
   [HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
@@ -20,20 +20,17 @@ The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT
 # API Prizes
 Yes, there will be prizes.  Still figuring out what they are.
 
-* Best App using NativeScript - TBD
-* Best App using Modulus - TBD
+* Best App using NativeScript (cross-platorm native mobile apps using JavaScript and CSS)- TBD
+* Best App using Modulus (node.js PAAS) - TBD
 * Best IOT App (?) - TBD
-
 
 # Progress and HackMIT
 
-This is the first year we are sponsoring [HackMIT](http://hackmit.org); we are looking forward to a great event.
-Three of our engineers will attend the event:
-Jen Looper from our Telerik team, Jeremiah Harlan from our Modulus team,
-and Eduardo Pelegri-Llopart from our CTO organization.
+This is the second year we are sponsoring [HackMIT](http://hackmit.org); last year we had a great time and we are looking forward to coming back this year.
+
+We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
 
 Below is some additional information about Progress and our participation.
-
 
 ### Sponsor Links
    [Progress](http://progress.com) Software, [Modulus](http://modulus.io), [Telerik](http://telerik.com), [NativeScript](http://nativescript.org).
@@ -49,21 +46,9 @@ Below is some additional information about Progress and our participation.
 Progress has a number of products; the ones that are most likely relevant to the attendees at hackMIT are:
 
 * [NativeScript](http://nativescript.org) - an Open Source cross-platform platform for developing native (iOS, Android at the moment) apps using JavaScript
+* [Modulus](http://modulus.io) - An Application Container Platform build on Docker with support for Node.js, PHP, Java and Python.
 * The [Telerik Platform](http://www.telerik.com/platform#overview) - full tool-chain to create mobile apps, including native (iOS, Android and Windows), Hybrid (Apache Cordova) and NativeScript
 * [KendoUI](http://www.telerik.com/kendo-ui) - a collection of more than 70 jQuery-based UI Widgets with AngularJS integration, Bootstrap support, mobile controls and offline data. 
-* [Modulus](http://modulus.io) - An Application Container Platform build on Docker with support for Node.js, PHP, Java and Python.
-
-### NativeScript
-[NativeScript](http://nativescript.org) - The latest release is 1.3, out this week.  More details TBD
-
-### Telerik Platform
-[Telerik Platform](http://www.telerik.com/platform#overview) - More details TBD
-
-### KendoUI
-[KendoUI](http://www.telerik.com/kendo-ui) - More details TBD
-
-### Modulus
-[Modulus](http://modulus.io) - More details TBD
 
 
 ### Judging
@@ -73,6 +58,6 @@ Please be sure the judges are aware your hack is targetting this content.
 
 # Added - Winter Internships
 
-Please contact Eduardo if you are interested in a (short) Winter Internship during January.  Palo Alto is very appealing when snow is falling in Boston.
+Please contact Eduardo if you are interested in an Internship during Summer 2017.
    
 [HackMIT]: http://hackmit.org
