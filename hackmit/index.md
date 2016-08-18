@@ -5,40 +5,30 @@ layout: default
  
 ## Previously: HackMIT 2015
 
-The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
+The 2015 event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
 
-# Logistics
+## Logistics
 
-[HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
+Last year, the venue for [HackMIT](https://hackmit.org) was the [Kresge Auditorium and the Johnson Ice Rink](https://goo.gl/maps/n5wnbgbBorB2); I expect it will be the same this year.  Dates are Sep 17th and 19th, 2016.
  
-# API Prizes
+## API Prizes
 
-Yes, there will be prizes.  Still figuring out what they are.
+There will be prizes but we are still figuring out what they are.
 
-* Best App using NativeScript (cross-platorm native mobile apps using JavaScript and CSS)- TBD
-* Best App using Modulus (node.js PAAS) - TBD
+* Best App using [NativeScript](http://nativescript.org) - TBD
+* Best App using [Modulus](http://modulus.io) - TBD
 * Best IOT App (?) - TBD
 
-# Progress and HackMIT
+## Progress at HackMIT
 
 This is the second year we are sponsoring [HackMIT](http://hackmit.org); last year we had a great time and we are looking forward to coming back this year.
 
 We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
 
-Below is some additional information about Progress and our participation.
-
-## Sponsor Links
-[Progress](http://progress.com) Software, [Modulus](http://modulus.io), [Telerik](http://telerik.com), [NativeScript](http://nativescript.org).
-
-## Contacts
-**Main Contacts**: Details are TBD.  Our booth at HackMIT is TBD.
-
 ## Company Details:
-   Progress HQ is in Bedford MA (HQ, near Boston).  The Telerik HQ is in Sofia, Bulgaria.  The Modulus HQ is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
+[Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The Telerik](http://telerik.com) HQ is in Sofia, Bulgaria.  The Modulus HQ is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
-# Progress APIS at HackMIT
-
-Progress has a number of products; the ones that are most likely relevant to the attendees at hackMIT are:
+## Additional APIS Links
 
 * [NativeScript](http://nativescript.org) - an Open Source cross-platform platform for developing native (iOS, Android at the moment) apps using JavaScript
 * [Modulus](http://modulus.io) - An Application Container Platform build on Docker with support for Node.js, PHP, Java and Python.
@@ -46,13 +36,16 @@ Progress has a number of products; the ones that are most likely relevant to the
 * [KendoUI](http://www.telerik.com/kendo-ui) - a collection of more than 70 jQuery-based UI Widgets with AngularJS integration, Bootstrap support, mobile controls and offline data. 
 
 
-### Judging
+## Judging
 Hacks will be judged on originality, technical difficulty, and applicability.  Hacks need to leverage at least one of the Progress offerings.
 
 Please be sure the judges are aware your hack is targetting this content.
 
-# Added - Winter Internships
+## Internships at Progress
 
-Please contact Eduardo if you are interested in an Internship during Summer 2017.
+Please contact Eduardo if you are interested in an Internship during Summer 2017.  Information on recent internships are available at:
+* 2014 - Summer
+* 2015 - Winter, Summer
+* 2015 - none; skipped for logistical reasons
    
 [HackMIT]: http://hackmit.org
