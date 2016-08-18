@@ -4,18 +4,12 @@ layout: default
 ---
  
 # Previous Events
+
 ## HackMIT 2015
 The event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
 
-# TODO 2016
-* All new material
-* Emphasis for 2016 will be [NativeScript](http://nativescript.org) and [Modulus](http://modulus.io)
-
 # Venue
   [HackMIT](https://hackmit.org) is at MIT.  Sep 17th and 19th, 2016.
-  
-**Event Reports**:  
-  TBD
  
 # API Prizes
 Yes, there will be prizes.  Still figuring out what they are.
@@ -32,13 +26,13 @@ We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopar
 
 Below is some additional information about Progress and our participation.
 
-### Sponsor Links
-   [Progress](http://progress.com) Software, [Modulus](http://modulus.io), [Telerik](http://telerik.com), [NativeScript](http://nativescript.org).
+## Sponsor Links
+[Progress](http://progress.com) Software, [Modulus](http://modulus.io), [Telerik](http://telerik.com), [NativeScript](http://nativescript.org).
 
-### Contacts
+## Contacts
 **Main Contacts**: Details are TBD.  Our booth at HackMIT is TBD.
 
-### Company Details:
+## Company Details:
    Progress HQ is in Bedford MA (HQ, near Boston).  The Telerik HQ is in Sofia, Bulgaria.  The Modulus HQ is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
 # Progress APIS at HackMIT
