@@ -2,31 +2,33 @@
 title: Welcome to HackMIT
 layout: default
 ---
- 
+
+## About Progress
+Progress is a global company headquartered in Boston.  We focused on building and delivering engaging customers experiences for today's rapidly changing digital environment.  We have strong background in developer tools, UI components , mobile tools and Web Sites.
+
+The key products we bring to HackMIT are NativeScript (framework to create cross-platform mobile apps with JavaScript and CSS) and Modulus (node.js platform).
+
+[Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The [Telerik](http://telerik.com) group is mostly in Sofia, Bulgaria.  The Modulus group is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
+
 ## Previously: HackMIT 2015
 
 The 2015 event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
 
-## Logistics
+## Logistics for HackMIT 2016
 
 Last year, the venue for [HackMIT](https://hackmit.org) was the [Kresge Auditorium and the Johnson Ice Rink](https://goo.gl/maps/n5wnbgbBorB2); I expect it will be the same this year.  Dates are Sep 17th and 19th, 2016.
  
 ## API Prizes
 
-There will be prizes but we are still figuring out what they are.
+There will be prizes but we are still figuring out details.
 
 * Best App using [NativeScript](http://nativescript.org) - TBD
 * Best App using [Modulus](http://modulus.io) - TBD
 * Best IOT App (?) - TBD
 
-## Progress at HackMIT
-
-This is the second year we are sponsoring [HackMIT](http://hackmit.org); last year we had a great time and we are looking forward to coming back this year.
+## Mentors
 
 We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
-
-## Company Details:
-[Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The Telerik](http://telerik.com) HQ is in Sofia, Bulgaria.  The Modulus HQ is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
 ## Additional APIS Links
 
