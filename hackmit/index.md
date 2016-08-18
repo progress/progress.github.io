@@ -6,11 +6,11 @@ layout: default
 ## About Progress
 Progress is a global company headquartered in Boston.  We focus on building and delivering engaging customers experiences for today's rapidly changing digital environment.  We have strong background in developer tools, UI components, mobile tools and Web Sites.
 
-The key products we bring to HackMIT are [NativeScript](http://nativescript.org), a framework to create cross-platform mobile apps with JavaScript and CSS, and [Modulus](http://modulus.io), a node.js platform.
+The key product we bring to HackMIT is [NativeScript](http://nativescript.org), a framework to create cross-platform mobile apps with JavaScript and CSS.
 
-[Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The [Telerik](http://telerik.com) group is mostly in Sofia, Bulgaria.  The Modulus group is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
+[Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The [Telerik](http://telerik.com) group is mostly in Sofia, Bulgaria.  Other sites include Cincinnati, Morrisville, SF Bay Area and Hyderabad.
 
-## Previously: HackMIT 2015
+## Previously, at HackMIT 2015...
 
 The 2015 event was Sep 19 and 20th, 2015.  Fun was had by all; see [Web Page](hackMIT_2015), the [summary post](https://pelegri.wordpress.com/2015/10/11/hackmit-sep-2015/) and this [Flickr Album](https://www.flickr.com/photos/42919418@N03/sets/72157658949478492)
 
@@ -23,7 +23,6 @@ Last year, the venue for [HackMIT](https://hackmit.org) was the [Kresge Auditori
 There will be prizes but we are still figuring out details.
 
 * Best App using NativeScript - TBD
-* Best App using Modulus - TBD
 * Best IOT App (?) - TBD
 
 ## Mentors
