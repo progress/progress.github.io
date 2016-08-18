@@ -4,9 +4,9 @@ layout: default
 ---
 
 ## About Progress
-Progress is a global company headquartered in Boston.  We focused on building and delivering engaging customers experiences for today's rapidly changing digital environment.  We have strong background in developer tools, UI components , mobile tools and Web Sites.
+Progress is a global company headquartered in Boston.  We focus on building and delivering engaging customers experiences for today's rapidly changing digital environment.  We have strong background in developer tools, UI components, mobile tools and Web Sites.
 
-The key products we bring to HackMIT are NativeScript (framework to create cross-platform mobile apps with JavaScript and CSS) and Modulus (node.js platform).
+The key products we bring to HackMIT are [NativeScript](http://nativescript.org), a framework to create cross-platform mobile apps with JavaScript and CSS, and [Modulus](http://modulus.io), a node.js platform.
 
 [Progress](http://progress.com) Software HQ is in Bedford MA (HQ, near Boston).  The [Telerik](http://telerik.com) group is mostly in Sofia, Bulgaria.  The Modulus group is located in Cincinnati.  Other sites include Morrisville, SF Bay Area and Hyderabad.
 
@@ -22,8 +22,8 @@ Last year, the venue for [HackMIT](https://hackmit.org) was the [Kresge Auditori
 
 There will be prizes but we are still figuring out details.
 
-* Best App using [NativeScript](http://nativescript.org) - TBD
-* Best App using [Modulus](http://modulus.io) - TBD
+* Best App using NativeScript - TBD
+* Best App using Modulus - TBD
 * Best IOT App (?) - TBD
 
 ## Mentors
@@ -46,8 +46,9 @@ Please be sure the judges are aware your hack is targetting this content.
 ## Internships at Progress
 
 Please contact Eduardo if you are interested in an Internship during Summer 2017.  Information on recent internships are available at:
-* 2014 - Summer
-* 2015 - Winter, Summer
+
+* 2014 - [Summer](https://pelegri.wordpress.com/2014/08/07/2014-summer-interns/)
+* 2015 - [Winter](https://pelegri.wordpress.com/2015/02/15/akhils-winters-adventure/), [Summer](https://pelegri.wordpress.com/2015/06/12/summer-2015-iot-projects/)
 * 2015 - none; skipped for logistical reasons
    
 [HackMIT]: http://hackmit.org
