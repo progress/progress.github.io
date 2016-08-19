@@ -22,12 +22,16 @@ Last year, the venue for [HackMIT](https://hackmit.org) was the [Kresge Auditori
 
 There will be prizes but we are still figuring out details.
 
-* Best App using NativeScript - TBD
-* Best IOT App (?) - TBD
+* Best App using NativeScript - Apple / Amazon Gift cards to each team member for $XX
+* Best IOT App using NativeScript - Apple / Amazon Gift cards to each team member for $XX
+
+We may bring some RFID goodies that can be used for the IOT portion, but the category is open-ended.
 
 ## Mentors
 
-We are still finalizing the mentors; committed so far is [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/) from our CTO organization.
+We are still finalizing the mentors; committed so far are:
+* [Eduardo Pelegri-Llopart](https://pelegri.wordpress.com/about/)
+* [Peter Filipov](TBD)
 
 ## Additional APIS Links
 
